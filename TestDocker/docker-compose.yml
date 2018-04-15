@@ -1,8 +1,11 @@
-version: "3.3"
+version: '3.3'
 services:
   web:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
     image: testdocker
     ports:
-      - "8080:80"
+      - '8080:80'
     volumes:
-      - .:/code
+      - '.:/code'

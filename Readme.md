@@ -1,6 +1,6 @@
-#. Установить Docker
+## 1. Установить Docker
 
-##. Запуск с помощью Docker
+## 2. 1. Запуск с помощью Docker
 
    cd TestDocker
 
@@ -8,7 +8,7 @@
 
    docker run -d -p 8080:80 --name myapp testdocker
 
-##. Запуск с помощью docker-compose
+## 2. 2. Запуск с помощью docker-compose
 
    cd TestDocker
 

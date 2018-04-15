@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6881aca6-ecdf-424b-ba09-ae8b14c603c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestDocker/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TestDocker/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestDocker/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TestDocker/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/TestDocker/Controllers/ValuesController.cs" afterPath="$PROJECT_DIR$/TestDocker/Controllers/ValuesController.cs" />
-      <change beforePath="$PROJECT_DIR$/TestDocker/Program.cs" afterPath="$PROJECT_DIR$/TestDocker/Program.cs" />
-      <change beforePath="$PROJECT_DIR$/TestDocker/Startup.cs" afterPath="$PROJECT_DIR$/TestDocker/Startup.cs" />
-    </list>
+    <list default="true" id="6881aca6-ecdf-424b-ba09-ae8b14c603c9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,12 +191,12 @@
       <updated>1523572947673</updated>
       <workItem from="1523572955590" duration="1228000" />
       <workItem from="1523823341895" duration="2481000" />
-      <workItem from="1523832843392" duration="202000" />
+      <workItem from="1523832843392" duration="326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5620000" />
+    <option name="totallyTimeSpent" value="5744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
